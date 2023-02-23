@@ -6,9 +6,13 @@ Acceptance Criteria:
 
 -A React application is created
 -The application loads the fund and location information from http://localhost:5000/funds
+
 -The funds are displayed as a list on the application
+
 -A filter option is provided to filter the funds based on location field
+
 -The filter updates the list in real time based on the selected location
+
 
 To complete the assessment, clone this repository and create a new branch titled "YOURNAME-2023-FS-Assessment". Once you are finished, create a pull request to the main repository.
 
