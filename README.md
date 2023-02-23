@@ -5,6 +5,7 @@ As an end user, I want to be able to view a list of funds so that I can have a b
 Acceptance Criteria:
 
 -A React application is created
+
 -The application loads the fund and location information from http://localhost:5000/funds
 
 -The funds are displayed as a list on the application
