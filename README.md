@@ -14,7 +14,7 @@ Acceptance Criteria:
 -The filter updates the list in real time based on the selected location
 
 
-To complete the assessment, clone this repository and create a new branch titled "YOURNAME-2023-FS-Assessment". Once you are finished, create a pull request to the main repository.
+To complete the assessment, fork this repository and create a new branch titled "YOURNAME-2023-FS-Assessment". Once you are finished, create a pull request to the main repository.
 
 ## Usage
 
