@@ -1,0 +1,10 @@
+.dropdown {
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  margin-bottom: 2rem;
+  width: 20%;
+  padding: 0 1rem;
+  font-family: "Lato", sans-serif;
+  text-align: center;
+}
