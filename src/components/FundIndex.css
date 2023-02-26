@@ -1,0 +1,67 @@
+#logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.logo-and-header {
+  display: flex;
+}
+
+#page-header {
+  font-weight: bold;
+  font-size: 40px;
+  margin-bottom: 10px;
+}
+
+.fund-index-header {
+  padding-bottom: 15px;
+  box-shadow: 0 4px 2px -2px gray;
+}
+
+.location-filter-container {
+  display: flex;
+  align-items: center;
+}
+
+.location-filter-header {
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.dropdown-container {
+  display: flex;
+}
+
+select {
+  border: 1px solid gray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.fund-index-container {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.index-item-container {
+  border-bottom: 1px solid gray;
+  height: 65px;
+  width: 350px;
+  padding-left: 25px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.fund-name {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+#location-icon {
+  color: rgb(98, 98, 98);
+  margin-right: 5px;
+}
